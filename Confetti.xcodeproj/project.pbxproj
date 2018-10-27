@@ -12,6 +12,7 @@
 		D474559921846B8700B1AFDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D474559721846B8700B1AFDA /* Main.storyboard */; };
 		D474559B21846B8900B1AFDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D474559A21846B8900B1AFDA /* Assets.xcassets */; };
 		D474559E21846B8900B1AFDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D474559C21846B8900B1AFDA /* LaunchScreen.storyboard */; };
+		D47455A621846DB500B1AFDA /* ConfettiButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47455A521846DB500B1AFDA /* ConfettiButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D474559A21846B8900B1AFDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D474559D21846B8900B1AFDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D474559F21846B8900B1AFDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D47455A521846DB500B1AFDA /* ConfettiButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfettiButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D474559321846B8700B1AFDA /* AppDelegate.swift */,
 				D474559521846B8700B1AFDA /* ViewController.swift */,
+				D47455A521846DB500B1AFDA /* ConfettiButton.swift */,
 				D474559721846B8700B1AFDA /* Main.storyboard */,
 				D474559A21846B8900B1AFDA /* Assets.xcassets */,
 				D474559C21846B8900B1AFDA /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D47455A621846DB500B1AFDA /* ConfettiButton.swift in Sources */,
 				D474559621846B8700B1AFDA /* ViewController.swift in Sources */,
 				D474559421846B8700B1AFDA /* AppDelegate.swift in Sources */,
 			);
